@@ -1,7 +1,7 @@
 # Academic CV
 This is Cao's CV.
 
-# You can preview the CV as a [PDF](https://geoffboeing.com/share/cv-gboeing.pdf).
+% You can preview the CV as a [PDF](https://geoffboeing.com/share/cv-gboeing.pdf).
 
 # This repo contains [CAO, Guogang])'s **LaTeX academic CV**, permissively licensed for others to adapt. The CV content and formatting generally conform to Karen Kelsky's [guidelines](https://theprofessorisin.com/) with tweaks for clearer information presentation and better typography.
 
